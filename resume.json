@@ -1,0 +1,56 @@
+{
+    "basics": {
+      "name": "Ragavendran",
+      "label": "full Stack developer",
+      "image": "",
+      "email": "aeroragavendra@gmail.com",
+      "phone": "7010330751",
+      "url": "https://ragavendra.com",
+      "summary": "A summary of ragavendra…",
+      "location": {
+        "address": "no :4 sakthi St",
+        "postalCode": "606206",
+        "city": "kallakurchi",
+        "countryCode": "india",
+        "region": "tamilnadu"
+      },
+      "profiles": [{
+        "network": "github",
+        "username": "ragavendra",
+        "url": "https://gitgup.com/ragavendra"
+      }]
+    },
+    "education": [{
+      "institution": "Anna University",
+      "url": "https://gkmcet.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2010-01-01",
+      "endDate": "2015-01-01",
+      "score": "6.5",
+      "courses": [
+        "Bachelar of engineering "
+      ]
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "beginner",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "story",
+      "keywords": [
+        "economics",
+        "political"
+      ]
+    }]
+ 
+  }
